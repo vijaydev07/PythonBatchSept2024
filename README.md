@@ -14,4 +14,7 @@
 ### To check the status 
     git status
 
+### To push the changes
+    git push origin <SourceBranch>
+
 ## Course Completed

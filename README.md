@@ -17,4 +17,11 @@
 ### To push the changes
     git push origin <SourceBranch>
 
+    class01 -> main
+
+
+### To check/modified content in the existing file,
+    git diff <filename>
+
+
 ## Course Completed
